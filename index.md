@@ -10,3 +10,6 @@ Heinz Ehrhard ist ein deutscher Schauspieler, der vor allem in den 50er- und 60e
 
 > Schöne Küche! Würde ich mir nie kaufen.
 > Langsam einparken kann ja jeder.
+
+<img src="https://www.ndr.de/nachrichten/info/erhardt104_v-zweispaltig.jpg"/>
+
